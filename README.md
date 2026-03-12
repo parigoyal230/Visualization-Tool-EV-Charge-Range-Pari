@@ -1,7 +1,7 @@
 # Visualization Tool for Electric Vehicle Charge and Range Analysis - Pari
 
 **Submitted by:** Pari (GitHub: parigoyal230)  
-**Location:** Ludhiana, Punjab  
+**Location:** Chandigarh, Punjab  
 **Platform:** myskillwallet.ai / SmartInternz  
 **Project Date:** March 2026  
 

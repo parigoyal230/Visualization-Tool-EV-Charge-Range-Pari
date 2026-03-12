@@ -6,7 +6,7 @@
 **Project Date:** March 2026  
 
 **Demo Dashboard (Tableau Public Reference):**  
-https://public.tableau.com/app/profile/vignesh.waran/viz/VisualizationToolforElectricVehicleChargeandRangeAnalysis/Dashboard1  
+ https://public.tableau.com/views/ElectricVehicleChargeandRange/EVChargingandRangeAnalysisDashboard-Pari?:language=en-US&:sid=&:redirect=auth&publish=yes&showOnboarding=true&:display_count=n&:origin=viz_share_link
 
 **Project Summary:**  
 This project analyzes electric vehicle charging patterns using Tableau.  
